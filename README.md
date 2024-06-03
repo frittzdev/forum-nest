@@ -32,4 +32,5 @@ $ npm run test:e2e
 - Prisma
 - Vitest
 - Zod
+- Redis
 
